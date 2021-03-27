@@ -18,7 +18,7 @@ been automated testing.
 # Technologies
 - C#, JavaScript, TypeScript, Java, VBA, Python, SQL
 - Cypress, TestCafe, JMeter, LoadRunner, NeoLoad
-- Gherkin (Specflow, Cucumber.js), RestSharp
+- Selenium Webdriver, Gherkin (Specflow, Cucumber.js), RestSharp
 - Visual Studio, VS Code, SQL Server
 
 # Clients
