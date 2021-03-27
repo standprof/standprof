@@ -28,6 +28,6 @@ been automated testing.
 - Marina Goncharova - manual tester
 
 # Contact us
-info@standprof.co.uk
-https://www.standprof.co.uk/
-+4474820789167
+- info@standprof.co.uk
+- https://www.standprof.co.uk/
+- +4474820789167
