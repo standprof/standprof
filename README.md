@@ -11,7 +11,7 @@ been automated testing.
 - Continuous testing using DevOps tools
 
 # Demo of our test framework and reporting tool
-<div align="center">
+<div align="left">
   <a href="https://www.youtube.com/watch?v=s8uWEKDxM0M"><img src="https://img.youtube.com/vi/s8uWEKDxM0M/0.jpg" alt="Our test framework and reporting tool"></a>
 </div>
 
