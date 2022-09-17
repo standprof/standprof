@@ -22,15 +22,12 @@ been automated testing.
 - Visual Studio, VS Code, SQL Server
 
 # Clients
+- Utilus
+- Dojo (Paymentsense)
 - International Tennis Federation (ITF)
-- Paymentsense
 - MS Amlin
 - BookingTEK
 - Rogge
-
-# Team
-- Stan Desyatnikov - automated tester
-- Marina Goncharova - manual tester
 
 # Contact us
 - info@standprof.co.uk
