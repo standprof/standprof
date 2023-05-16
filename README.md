@@ -19,6 +19,7 @@ been automated testing.
 - C#, JavaScript, TypeScript, Java, VBA, Python, SQL
 - Cypress, TestCafe, JMeter, LoadRunner, NeoLoad
 - Selenium Webdriver, Gherkin (Specflow, Cucumber.js), RestSharp
+- Azure, GCP, TeamCity, GitHub, GitLab, AWS
 - Visual Studio, VS Code, SQL Server
 
 # Clients
