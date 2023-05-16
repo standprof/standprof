@@ -23,7 +23,7 @@ been automated testing.
 - Visual Studio, VS Code, SQL Server
 
 # Clients
-- Utilus
+- Spike
 - Dojo (Paymentsense)
 - International Tennis Federation (ITF)
 - MS Amlin
