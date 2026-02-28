@@ -3,12 +3,14 @@ We started our business in 2013 as a testing consultancy. Our key competency has
 been automated testing.
 
 # Services
+- Setting up testing processes
 - Creating automated test frameworks from scratch
 - Automated functional and performance testing
-- UI and API testing
-- Setting up testing processes
+- Writing UI and API tests
 - Manual testing
-- Continuous testing using DevOps tools
+- Continuous testing using CI/CD tools
+- Developing tools to facilitate testing
+- Mentorship
 
 # Demo of our test framework and reporting tool
 <div align="left">
@@ -16,13 +18,19 @@ been automated testing.
 </div>
 
 # Technologies
-- C#, JavaScript, TypeScript, Java, VBA, Python, SQL
-- Cypress, TestCafe, JMeter, LoadRunner, NeoLoad
-- Selenium Webdriver, Gherkin (Specflow, Cucumber.js), RestSharp
-- Azure, GCP, TeamCity, GitHub, GitLab, AWS
-- Visual Studio, VS Code, SQL Server
+- Languages: C#, JavaScript, TypeScript, Java, VBA, Python, SQL
+- Functional testing:
+  - Playwrihgt, Selenium, Cypress, TestCafe,
+  - BDD/Specflow/Reqnroll/Cucumber, RestSharp
+- Performance testing: JMeter, LoadRunner, NeoLoad
+- CI/CD: Azure, GCP, TeamCity, GitHub, GitLab, AWS
+- Databases: SQL Server, MongodDb
+- IDEs: Visual Studio, VS Code, PyScharm
+
 
 # Clients
+- Dura Vermeer
+- Utilus
 - Spike
 - Dojo (Paymentsense)
 - International Tennis Federation (ITF)
@@ -33,4 +41,4 @@ been automated testing.
 # Contact us
 - info@standprof.co.uk
 - https://www.standprof.co.uk/
-- +44 (0)7482 789167
+- +44 7482 789167
