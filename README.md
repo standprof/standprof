@@ -20,7 +20,7 @@ been automated testing.
 # Technologies
 - Languages: C#, JavaScript, TypeScript, Java, VBA, Python, SQL
 - Functional testing:
-  - Playwrihgt, Selenium, Cypress, TestCafe,
+  - Playwright, Selenium, Cypress, TestCafe,
   - BDD/Specflow/Reqnroll/Cucumber, RestSharp
 - Performance testing: JMeter, LoadRunner, NeoLoad
 - CI/CD: Azure, GCP, TeamCity, GitHub, GitLab, AWS
