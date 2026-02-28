@@ -29,14 +29,13 @@ been automated testing.
 
 
 # Clients
-- Dura Vermeer
-- Utilus
-- Spike
-- Dojo (Paymentsense)
-- International Tennis Federation (ITF)
-- MS Amlin
-- BookingTEK
-- Rogge
+- [Dura Vermeer](https://duravermeer.com/)
+- [Utilus](https://www.utilus.nl/)
+- [Spike](https://www.wearespike.co.uk/)
+- [Dojo (Paymentsense)](https://dojo.tech/)
+- [International Tennis Federation (ITF)](https://www.itftennis.com/en/)
+- [MS Amlin](https://global.msamlin.com/)
+- [BookingTEK](https://www.bookingtek.com/)
 
 # Contact us
 - info@standprof.co.uk
