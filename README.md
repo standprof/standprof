@@ -24,7 +24,7 @@ Standprof LTD specialises in end-to-end test architecture, automation frameworks
 - Performance testing: JMeter, LoadRunner, NeoLoad
 - CI/CD: Azure, GCP, TeamCity, GitHub, GitLab, AWS
 - Databases: SQL Server, MongodDb
-- IDEs: Visual Studio, VS Code, PyScharm
+- IDEs: Visual Studio, VS Code, PyCharm
 
 
 # Clients
