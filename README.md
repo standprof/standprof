@@ -29,13 +29,13 @@ been automated testing.
 
 
 # Clients
-- [Dura Vermeer](https://duravermeer.com/)
-- [Utilus](https://www.utilus.nl/)
-- [Spike](https://www.wearespike.co.uk/)
-- [Dojo (Paymentsense)](https://dojo.tech/)
-- [International Tennis Federation (ITF)](https://www.itftennis.com/en/)
-- [MS Amlin](https://global.msamlin.com/)
-- [BookingTEK](https://www.bookingtek.com/)
+- [Dura Vermeer](https://duravermeer.com/), construction
+- [Utilus](https://www.utilus.nl/), IT consultancy and custom software development
+- [Spike](https://www.wearespike.co.uk/), information technology services, focused on software testing for retail enterprises
+- [Dojo (Paymentsense)](https://dojo.tech/), fintech, card payment solutions
+- [International Tennis Federation (ITF)](https://www.itftennis.com/en/), sport
+- [MS Amlin](https://global.msamlin.com/), insurance
+- [BookingTEK](https://www.bookingtek.com/), SaaS for hotels, restuarants and other hospitality businesses
 
 # Contact us
 - info@standprof.co.uk
