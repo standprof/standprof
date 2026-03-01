@@ -1,6 +1,5 @@
 # Overview
-We started our business in 2013 as a testing consultancy. Our key competency has always
-been automated testing.
+Standprof LTD specialises in end-to-end test architecture, automation frameworks from scratch, and quality engineering practices that reduce risk across complex software systems.
 
 # Services
 - Setting up testing processes
@@ -35,7 +34,7 @@ been automated testing.
 - [Dojo (Paymentsense)](https://dojo.tech/), fintech, card payment solutions
 - [International Tennis Federation (ITF)](https://www.itftennis.com/en/), sport
 - [MS Amlin](https://global.msamlin.com/), insurance
-- [BookingTEK](https://www.bookingtek.com/), SaaS for hotels, restuarants and other hospitality businesses
+- [BookingTEK](https://www.bookingtek.com/), SaaS for hotels, restaurants and other hospitality businesses
 
 # Contact us
 - info@standprof.co.uk
